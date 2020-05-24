@@ -30,7 +30,7 @@ module.exports = function () {
         },
         plugins: [new htmlWebpackPlugin({
             filename: '../index.html',
-            title: 'Cyanea Lam',
+            title: 'Cyanea Lam-2',
             template: 'template/index.ejs',
             inject: 'body'
         })],
