@@ -30,7 +30,7 @@ module.exports = function () {
         },
         plugins: [new htmlWebpackPlugin({
             filename: '../index.html',
-            title: 'This is resume test page!',
+            title: 'Cyanea Lam',
             template: 'template/index.ejs',
             inject: 'body'
         })],
