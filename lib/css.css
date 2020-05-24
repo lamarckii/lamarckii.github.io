@@ -7,8 +7,7 @@
  */
 
 /**
-* Let me spice it up a little bit.
-* Add a plain background.
+* Let me show you one of my art illustrations.
  */
 
 * {
@@ -19,7 +18,7 @@
 }
 
 html {
-    background-color: #244E6E;
+    background-image: url("HighFidelity_GradientYellowGreen.png");
 }
 
 /**
