@@ -19,7 +19,8 @@
 
 html {
   background: url(image/HighFidelity_Difference.png) no-repeat center center fixed;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255,255,255,0.6);
+    background-blend-mode: lighten;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
